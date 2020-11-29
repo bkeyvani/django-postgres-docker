@@ -136,3 +136,14 @@ dmypy.json
 
 # Cython debug symbols
 cython_debug/
+
+# custom
+.DS_Store
+.bak
+.tmp
+pgdata/
+tags
+tmp*
+
+# vs code docker container stuff
+.devcontainer/
